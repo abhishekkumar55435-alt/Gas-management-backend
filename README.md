@@ -1,7 +1,4 @@
-Your Markdown file is ready
-[file-tag: code-generated-file-0-1775809702018372186]
 
-I have generated a properly formatted GitHub `README.md` file (saved as `README-github-v2.md`). 
 
 This version includes everything expected in a standard GitHub repository:
 * **Status Badges** (Python, MySQL, License).
